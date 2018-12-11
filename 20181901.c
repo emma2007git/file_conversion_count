@@ -89,8 +89,5 @@ int main(int argc, char*argv[])
 	return 0;
 }
 
-void count(FILE*f, int *line_num, int *word_num, int * char_num)
-{
-	
-}
+
 
